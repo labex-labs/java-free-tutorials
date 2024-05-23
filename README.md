@@ -6,8 +6,8 @@
 
 Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                        |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                       |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Introductory Java Programming Fundamentals            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/introductory-java-programming-fundamentals-178546)                |
 |     002 | 📖 Variables And Operators                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/variables-and-operators-178553)                                   |
 |     003 | 📖 Java Conditional Expressions Fundamentals             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/java-conditional-expressions-fundamentals-178545)                 |
@@ -325,7 +325,8 @@ Java is a general-purpose programming language that is class-based, object-orien
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
